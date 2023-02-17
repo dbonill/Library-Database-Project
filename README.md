@@ -129,10 +129,10 @@ Overdue items report shows all the items overdue in the library at the moment ge
 Credits:
 
 Collaborators:
-	Yury Ionov
-	Daniel Bonilla
-	Lingwei Kong
-	Ahmed Diefalla
+	Yury Ionov,
+	Daniel Bonilla,
+	Lingwei Kong,
+	Ahmed Diefalla,
 	Andres Sanchez
 
 Made with the help of these tutorials:
