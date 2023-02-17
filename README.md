@@ -4,9 +4,6 @@ Team13 Library Database
 Hosted Site (No Longer Online):
 http://onethreelibrary.site/
 
-Link to files and readme:
-https://drive.google.com/drive/folders/1nnmtJf7R45BZ9YpfuE35UvN-HWYW2V3D?usp=sharing
-
 Description:
 Library database: The purpose of this project was to create a library database with several different functionalities. The library contains two types of users members and admins (employees). The members are split into students and faculty. A member may request/hold items. There is a different limit for how many items a faculty vs student can borrow or hold. Also, the number of days will be different in case of students and teachers. Each item has a unique ID, and may have a different number of copies. 
 
